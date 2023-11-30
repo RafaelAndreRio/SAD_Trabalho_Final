@@ -1,42 +1,78 @@
 Cidade: Rotterdam
 Qual é a média de preços dos aluguéis no Airbnb na cidade?
+
 Quais são os bairros mais caros e mais baratos para alugar no Airbnb?
-Qual é a taxa de ocupação média dos imóveis disponíveis?
+
 Quais são os tipos de propriedades mais comuns (apartamentos, casas, quartos compartilhados)?
+
 Existe uma sazonalidade nos preços ou na ocupação ao longo do ano?
+
 !!Quais são os principais fatores que influenciam a avaliação dos hóspedes?!!
-Como a quantidade de avaliações se relaciona com a qualidade geral das estadias?
-Há uma correlação entre a localização do imóvel e sua popularidade?
-Qual é a distribuição de avaliações (positivas, neutras, negativas)?
+
+Há uma correlação entre a localização do imóvel e sua popularidade?(clusters?)
+
 Como as avaliações dos hóspedes variam em relação à faixa de preço?
-Essas perguntas podem ajudar a entender diferentes aspectos do mercado de aluguel do Airbnb na cidade em questão.
+
+
+
+
+
 Qual é a variação percentual nos preços dos aluguéis do Airbnb ao longo dos últimos dois anos?
+
 Quais são as comodidades mais mencionadas nas descrições dos anúncios?
+
 Existe uma correlação entre a proximidade de pontos turísticos e os preços dos aluguéis?
+
 Qual é a média de dias reservados por hóspede?
+
 Quais são os principais motivos mencionados nas avaliações negativas?
+
 Existe uma diferença significativa de preços entre acomodações para viajantes individuais e grupos?
+
 Como a política de cancelamento escolhida pelos anfitriões afeta a taxa de ocupação?
+
 Qual é a média de avaliação dos anúncios com Superhost em comparação com os não Superhost?
+
 Quais são as palavras mais frequentes nas avaliações positivas?
+
 Há uma diferença notável nas taxas de ocupação nos fins de semana versus dias úteis?
+
 Qual é a distribuição geográfica dos imóveis mais bem avaliados?
+
 Existe uma correlação entre o número de fotos no anúncio e a popularidade?
+
 Como as avaliações de limpeza impactam na decisão dos hóspedes?
+
 Quais são os principais meios de transporte mencionados nas descrições (perto de metrô, ônibus, etc.)?
+
 Qual é a média de dias de antecedência que as reservas são feitas?
+
 Há uma tendência na duração média das estadias (curtas versus longas)?
+
 Existe uma sazonalidade na quantidade de novos anúncios publicados?
+
 Quais são os temas mais comuns nas avaliações dos hóspedes (ex: limpeza, localização, hospitalidade)?
+
 Como a taxa de resposta dos anfitriões se relaciona com as avaliações?
+
 Quais são as nacionalidades mais comuns entre os hóspedes?
+
 Existe uma diferença de preço entre reservas feitas com antecedência e reservas de última hora?
+
 Quais são os meses de maior e menor movimento no mercado de aluguéis?
+
 Há uma correlação entre a variedade de restaurantes próximos e a popularidade dos anúncios?
+
 Quais são as principais palavras usadas em títulos de anúncios mais populares?
+
 Qual é a porcentagem de anúncios que oferecem descontos de longa duração?
+
 Como a quantidade de banheiros afeta a demanda por uma propriedade?
+
 Qual é a média de avaliação para propriedades com regras mais restritas versus menos restritas?
+
 Existe uma correlação entre a disponibilidade de Wi-Fi e as avaliações de hóspedes?
+
 Quais são os meses com maior concentração de eventos na cidade e como isso afeta os preços?
-Qual é a porcentagem de anúncios que oferecem cancelamento gratuito e como isso impacta nas reservas?
+
+Qual é a porcentagem de anúncios que oferecem cancelamento gratuito e como isso impacta nas reservas?k
