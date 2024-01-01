@@ -7,20 +7,20 @@ Quais são os tipos de propriedades mais comuns (apartamentos, casas, quartos co
 
 Existe uma sazonalidade nos preços ou na ocupação ao longo do ano?
 
-!!Quais são os principais fatores que influenciam a avaliação dos hóspedes?!!
+Há uma **** entre a localização do imóvel e sua popularidade?(clusters - encontrar concorrente )
+quarto, numero de reviws, preço,
 
-Há uma correlação entre a localização do imóvel e sua popularidade?(clusters?)
-
-Como as avaliações dos hóspedes variam em relação à faixa de preço?
+Como as avaliações dos hóspedes variam em relação de preço?(correlação linear)
 
 Qual é a distribuição geográfica dos imóveis mais bem avaliados?(há um grafico para isso!)
-
-Qual é a média de dias de antecedência que as reservas são feitas?
-
-Há uma tendência na duração média das estadias (curtas versus longas)?
 
 Quais são os meses de maior e menor movimento no mercado de aluguéis?
 
 Há uma diferença notável nas taxas de ocupação nos fins de semana versus dias úteis?
 
 Qual é a média de dias reservados por hóspede?
+
+
+
+regreção logistica ou classificação
+teste de hipoteses
